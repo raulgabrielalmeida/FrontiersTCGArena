@@ -1,23 +1,16 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
+  "menuBackgroundImage": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fc21dd051-909e-413e-b7bf-86fbf31a7bc7%2FFrontiers_TCG_-_Site_Oficial.png/size/w=2000?exp=1777592964&sig=KISQ7X0TkMCeW8JbzjL5Jn322EGcll-wa0Tk_Ii_clI&id=217ff10c-a08b-8030-8e88-debfc22e1e5d&table=block&mtd=so",
   "defaultRessources": {
     "backgrounds": [
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/Ammo-NiacPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/AstarothPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CranellPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
-      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png"
     ],
-    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
+    "decksUrl": ""
   },
   "customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
-    "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png",
+    "dataUrl": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards.json",
+    "cardBack": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/back.png",
     "cardBackColor": "#000"
   },
   "deckBuilding": {
