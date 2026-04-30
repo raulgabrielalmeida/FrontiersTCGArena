@@ -21,9 +21,7 @@
     "formats": [
       { 
         "title": "Standard",
-        "gameplay": "Standard",
-        "deckRuleset": "Standard",
-        "customCategories": []
+        "gameplay": "Standard"
       }
     ]
   },
