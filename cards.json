@@ -1,4 +1,20 @@
 {
+  "energy": {
+    "id": "energy",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/back.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
   "A001": {
     "id": "A001",
     "isToken": false,
