@@ -41,7 +41,7 @@
   "gameplay": {
     "Standard": {
       "mulligan": {
-        "info": "Se sua mão inicial não tiver nenhuma carta de Personagem, você pode refazê-la até 3 vezes.\nSempre que seu oponente fizer um mulligan e você não, você compra 1 carta extra.",
+        "info": "Se sua mão inicial não te agrada, você pode fazer o mulligan.\n Devolva uma carta para o fundo do deck sempre que você fizer um mulligan",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
