@@ -19,9 +19,22 @@
       "cost"
     ],
     "formats": [
-      { 
+      {
         "title": "Standard",
         "gameplay": "Standard"
+      }
+    ]
+  },
+  "Standard": {
+    "general": {
+      "min": 30,
+      "maxPerCard": 2
+    },
+    "categories": [
+      {
+        "category": "Mana",
+        "ignoreTotalCount": true,
+        "max": 6 
       }
     ]
   },
