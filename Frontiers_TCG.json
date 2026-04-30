@@ -1,0 +1,201 @@
+{
+  "name": "Frontiers TCG",
+  "menuBackgroundImage": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/Wallpaper.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CielPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/Ammo-NiacPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/AstarothPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/CranellPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/DraculaPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/HeatherPM.png",
+      "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/playmat/PastelPM.png"
+    ],
+    "decksUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-structural-decks.json"
+  },
+  "customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "https://raulgabrielalmeida.github.io/Frontiers-TCG/Frontiers-TCG-cards.json",
+    "cardBack": "https://raulgabrielalmeida.github.io/Frontiers-TCG/src/back.png",
+    "cardBackColor": "#000"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "cost"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "Se sua mão inicial não tiver nenhuma carta de Personagem, você pode refazê-la até 3 vezes.\nSempre que seu oponente fizer um mulligan e você não, você compra 1 carta extra.",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "ice-token",
+          "name": "Congelado",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fa65fb0cf-5cec-4784-ba6d-5c6dc9cf4fc8%2FCONGELADO.png/size/w=210?exp=1777599763&sig=acIoqY8-IbrTxtHrIcwrmmeXhJ-o3DYjajnm-Sxsaik&id=336ff10c-a08b-81fa-90e8-d64308af2dbd&table=block&mtd=so"
+        },
+        {
+          "id": "burn-token",
+          "name": "Queimando",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fa2975579-e23c-4718-8a97-aba1e896f575%2FQUEIMANDO.png/size/w=210?exp=1777599762&sig=PIvJUPKl1GoGaY_uG0t1npzbx68NhhRmeOXGAmoVViY&id=336ff10c-a08b-81e4-a8c3-e12f43dd1c79&table=block&mtd=so"
+        },
+        {
+          "id": "paralyze-token",
+          "name": "Paralizado",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Ff2f6a5ad-6781-4c0f-a1ba-d7e768899b38%2FPARALISADO.png/size/w=210?exp=1777599762&sig=T0LWEjrBty5Ov9XE8ZSm2BqhAUp1CDMtOD8MfHDiM6c&id=336ff10c-a08b-8141-8dbe-f25847e9ae3e&table=block&mtd=so"
+        },
+        {
+          "id": "poison-token",
+          "name": "Envenenado",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2F17f1acb6-ea25-4534-a560-4b77858516b4%2FENVENENADO.png/size/w=210?exp=1777599760&sig=DVSdqXkYQw4Lzft77W7FC3ZxGMoxc8gtlKPZyiK6I1w&id=336ff10c-a08b-8175-8e5a-c7f4a0e00190&table=block&mtd=so"
+        },
+        {
+          "id": "silence-token",
+          "name": "Silenciado",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2F10cf67f7-991e-4d72-ba06-7ae0ed31fec6%2FSILENCIADO.png/size/w=210?exp=1777599760&sig=UKr4WBGIHogvbak1-kzPQJSdlhd9vlxr6CTTbTxMK8k&id=336ff10c-a08b-817e-a803-ca6f469b056a&table=block&mtd=so"
+        },
+        {
+          "id": "poison-token",
+          "name": "Envenenado",
+          "image": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fb6ff9c06-0f53-4b84-a2cb-67ede4daf501%2FENFRAQUECIDO.png/size/w=210?exp=1777599755&sig=Kz3r3vQXFMmq_U_L_jaYCW7fX9uMt5LZPgEA3ymHwiI&id=336ff10c-a08b-8186-9f43-c87570f3e4e6&table=block&mtd=so"
+        }
+      ],
+      "countersStartingValues": [
+        12
+      ],
+      "sections": {
+        "customSections": [
+          "Battlefield",
+          "FieldZone",
+          "Mana"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "FieldZone",
+                  "style": {
+                    "width": "25vh"
+                  }
+                },
+                {
+                  "section": "Battlefield"
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "50vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana"
+        ],
+        "autoPlayFromHand": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "Stack",
+          "Suporte": "Stack",
+          "Campo": "FieldZone"
+        },
+        "autoPlayFromStack": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "GROUP",
+          "Suporte": "Discard",
+          "Campo": "FieldZone"
+        },
+        "sectionsDict": {
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Zona de Batalha",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FieldZone": {
+            "title": "FieldZone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Field Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Energy Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}

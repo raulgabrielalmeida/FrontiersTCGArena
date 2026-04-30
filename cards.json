@@ -1,0 +1,2162 @@
+{
+  "A001": {
+    "id": "A001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cranell, a Líder da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cranell, a Líder da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A002": {
+    "id": "A002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ginna, a Assassina da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ginna, a Assassina da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A003": {
+    "id": "A003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rina, a Curandeira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rina, a Curandeira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A004": {
+    "id": "A004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dielan, o Mestre de Armas da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dielan, o Mestre de Armas da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A005": {
+    "id": "A005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leneh, a Engenheira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leneh, a Engenheira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A006": {
+    "id": "A006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drone da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drone da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "A007": {
+    "id": "A007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Campo de Batalha da Brigada",
+        "type": "Campo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Campo de Batalha da Brigada",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "A008": {
+    "id": "A008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Táticas de Guerra da Brigada",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Táticas de Guerra da Brigada",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A009": {
+    "id": "A009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Astaroth, o Duque da Desolação dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Astaroth, o Duque da Desolação dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "A010": {
+    "id": "A010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zariel, o Duque da Guerra dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zariel, o Duque da Guerra dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A011": {
+    "id": "A011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A012": {
+    "id": "A012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A012.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A013": {
+    "id": "A013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karon, o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A013.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karon, o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A014": {
+    "id": "A014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varud, o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A014.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varud, o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A015": {
+    "id": "A015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamas da Discórdia dos Cavaleiros Infernais",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamas da Discórdia dos Cavaleiros Infernais",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "A016": {
+    "id": "A016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ordem de Ataque dos Cavaleiros Infernais",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ordem de Ataque dos Cavaleiros Infernais",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A017": {
+    "id": "A017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thomas, o Mago do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thomas, o Mago do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A018": {
+    "id": "A018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marie, a Bruxa do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marie, a Bruxa do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A019": {
+    "id": "A019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel, a Aprendiz do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel, a Aprendiz do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A020": {
+    "id": "A020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel, a Arquimaga do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel, a Arquimaga do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A021": {
+    "id": "A021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Cabana na Floresta",
+        "type": "Campo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Cabana na Floresta",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "A022": {
+    "id": "A022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sobrecarga do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sobrecarga do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A023": {
+    "id": "A023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Chegada do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Chegada do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A024": {
+    "id": "A024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Círculo Mágico do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Círculo Mágico do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A025": {
+    "id": "A025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heather, a Grande Mestra das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heather, a Grande Mestra das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A026": {
+    "id": "A026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Willow, a Guardiã das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Willow, a Guardiã das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A027": {
+    "id": "A027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Íris, a Mecânica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Íris, a Mecânica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A028": {
+    "id": "A028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liriel, a Médica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liriel, a Médica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A029": {
+    "id": "A029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melissa, a Caçadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A029.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melissa, a Caçadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A030": {
+    "id": "A030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alyssa, a Caçadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alyssa, a Caçadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A031": {
+    "id": "A031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clover, a Escavadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clover, a Escavadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A032": {
+    "id": "A032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Walkie Talkie",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Walkie Talkie",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A033": {
+    "id": "A033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Damas do Abismo",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Damas do Abismo",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A034": {
+    "id": "A034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drácula, o Supremo Senhor da Noite",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drácula, o Supremo Senhor da Noite",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A035": {
+    "id": "A035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith, a Dama do Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilith, a Dama do Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A036": {
+    "id": "A036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Múmia, o Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Múmia, o Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A037": {
+    "id": "A037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stein, o Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stein, o Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A038": {
+    "id": "A038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castelo do Senhor da Noite",
+        "type": "Campo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castelo do Senhor da Noite",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "A039": {
+    "id": "A039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controle Mental da Mestra do Castelo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controle Mental da Mestra do Castelo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A040": {
+    "id": "A040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Poder do Senhor da Noite",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Poder do Senhor da Noite",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "A041": {
+    "id": "A041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Sombras",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Sombras",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A042": {
+    "id": "A042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proteção do Senhor da Noite",
+        "type": "Equipamento",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proteção do Senhor da Noite",
+    "type": "Equipamento",
+    "cost": "1"
+  },
+  "A043": {
+    "id": "A043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bosch, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bosch, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A044": {
+    "id": "A044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haber, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haber, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A045": {
+    "id": "A045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clara, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clara, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A046": {
+    "id": "A046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AMMO-NIAC, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "AMMO-NIAC, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A047": {
+    "id": "A047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S-LIME, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S-LIME, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "A048": {
+    "id": "A048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granada de Gás do Terror",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granada de Gás do Terror",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A049": {
+    "id": "A049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esquiva Instantânea do Terror",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esquiva Instantânea do Terror",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A050": {
+    "id": "A050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recombinação do Terror Tóxico",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recombinação do Terror Tóxico",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A051": {
+    "id": "A051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiro, o Paladino das Neves",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiro, o Paladino das Neves",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "A052": {
+    "id": "A052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Marés",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Marés",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A053": {
+    "id": "A053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptofauna - Piranha",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A053.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptofauna - Piranha",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A054": {
+    "id": "A054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lyla, Guerreira das Marés",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lyla, Guerreira das Marés",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A055": {
+    "id": "A055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fahrkhael, o Terror das Montanhas Geladas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fahrkhael, o Terror das Montanhas Geladas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A056": {
+    "id": "A056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Água Viva",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Água Viva",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "A057": {
+    "id": "A057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siegfried, o Dragão Rubro",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siegfried, o Dragão Rubro",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "A058": {
+    "id": "A058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Chamas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Chamas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A059": {
+    "id": "A059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Vermillion, o Bardo Errante",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A059.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Vermillion, o Bardo Errante",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A060": {
+    "id": "A060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luccia, a Maga das Chamas Azuis",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luccia, a Maga das Chamas Azuis",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A061": {
+    "id": "A061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern Carmesim",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern Carmesim",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A062": {
+    "id": "A062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mithril, a Lâmina Sangrenta",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mithril, a Lâmina Sangrenta",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A063": {
+    "id": "A063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illuminum, o Guerreiro da Luz",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illuminum, o Guerreiro da Luz",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A064": {
+    "id": "A064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora Celeste",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora Celeste",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A065": {
+    "id": "A065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noelle, a Guardiã Valquíria",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noelle, a Guardiã Valquíria",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A066": {
+    "id": "A066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castielle, a Guardiã Valquíria",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A066.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castielle, a Guardiã Valquíria",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A067": {
+    "id": "A067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tom, o Aprendiz do Relâmpago",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tom, o Aprendiz do Relâmpago",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A068": {
+    "id": "A068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lily, a Fada Curandeira",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lily, a Fada Curandeira",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "A069": {
+    "id": "A069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Guardian - O Sentinela",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Guardian - O Sentinela",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "A070": {
+    "id": "A070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granolla, a Viajante Intergaláctica",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granolla, a Viajante Intergaláctica",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A071": {
+    "id": "A071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ascalon, o Lendário Dragão Branco",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascalon, o Lendário Dragão Branco",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A072": {
+    "id": "A072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub Avançado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub Avançado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A073": {
+    "id": "A073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaguya, a Assassina das Sombras",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaguya, a Assassina das Sombras",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A074": {
+    "id": "A074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ignis, a Lâmina Escarlate",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ignis, a Lâmina Escarlate",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A075": {
+    "id": "A075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noccio, o Protetor da Floresta",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noccio, o Protetor da Floresta",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A076": {
+    "id": "A076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Cavernas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Cavernas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A077": {
+    "id": "A077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaede, a Monge Errante",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaede, a Monge Errante",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A078": {
+    "id": "A078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arbusto Amaldiçoado",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A078.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arbusto Amaldiçoado",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A079": {
+    "id": "A079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerreiro Druida",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerreiro Druida",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A080": {
+    "id": "A080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub-Canhão!",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub-Canhão!",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A081": {
+    "id": "A081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ártemis, a Deusa da Lua",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ártemis, a Deusa da Lua",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A082": {
+    "id": "A082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora do Vazio",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora do Vazio",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A083": {
+    "id": "A083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axel, o Grande Pistoleiro",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axel, o Grande Pistoleiro",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A084": {
+    "id": "A084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green, o Mago da Destruição Final",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green, o Mago da Destruição Final",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A085": {
+    "id": "A085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Touya, o Espadachim Desertor",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Touya, o Espadachim Desertor",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A086": {
+    "id": "A086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Horizon - MK I",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Horizon - MK I",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A087": {
+    "id": "A087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Eagle",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Eagle",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A088": {
+    "id": "A088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Colinas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A088.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Colinas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A089": {
+    "id": "A089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lance, o Mestre dos Vendavais",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lance, o Mestre dos Vendavais",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "A090": {
+    "id": "A090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aiko, a Pugilista Lendária",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aiko, a Pugilista Lendária",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A091": {
+    "id": "A091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windblade",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windblade",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "A092": {
+    "id": "A092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pastel, o Gato do Destino",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pastel, o Gato do Destino",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "A093": {
+    "id": "A093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mudança de Território",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mudança de Território",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A094": {
+    "id": "A094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faísca",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A094.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faísca",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A095": {
+    "id": "A095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disparo Mágico",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disparo Mágico",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A096": {
+    "id": "A096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Impulso de Energia",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A096.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Impulso de Energia",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A097": {
+    "id": "A097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Visão do Destino",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Visão do Destino",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A098": {
+    "id": "A098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Passo do Vento",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Passo do Vento",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A099": {
+    "id": "A099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado da Noite",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado da Noite",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A100": {
+    "id": "A100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo do Vazio Perpétuo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo do Vazio Perpétuo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A101": {
+    "id": "A101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Alma Incandescente",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Alma Incandescente",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A102": {
+    "id": "A102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Brisa Primordial",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Brisa Primordial",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A103": {
+    "id": "A103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Chuva Ancestral",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Chuva Ancestral",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A104": {
+    "id": "A104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo do Guardião Terreno",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo do Guardião Terreno",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A105": {
+    "id": "A105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Luminância Eterna",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Luminância Eterna",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A106": {
+    "id": "A106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ascensão do Escolhido",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascensão do Escolhido",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A107": {
+    "id": "A107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Onda de Purificação",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onda de Purificação",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A108": {
+    "id": "A108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recarga Turbulenta",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recarga Turbulenta",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A109": {
+    "id": "A109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebobinar",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebobinar",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A110": {
+    "id": "A110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Remoção de Status",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A110.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Remoção de Status",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "A111": {
+    "id": "A111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Cura",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Cura",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A112": {
+    "id": "A112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medalhão da Centelha Absoluta",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A112.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medalhão da Centelha Absoluta",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "A113": {
+    "id": "A113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tufão",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tufão",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A114": {
+    "id": "A114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Cura Maior",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Cura Maior",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A115": {
+    "id": "A115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buraco Negro",
+        "type": "Suporte",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A115.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buraco Negro",
+    "type": "Suporte",
+    "cost": "5"
+  },
+  "A116": {
+    "id": "A116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teletransporte de Emergência",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teletransporte de Emergência",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A117": {
+    "id": "A117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reencarnação Flamejante",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reencarnação Flamejante",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A118": {
+    "id": "A118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alterar probabilidades",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A118.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alterar probabilidades",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A119": {
+    "id": "A119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acenda as Chamas do Milagre!",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acenda as Chamas do Milagre!",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "A120": {
+    "id": "A120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monólito do Guardião",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monólito do Guardião",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A121": {
+    "id": "A121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bloqueio",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bloqueio",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "A122": {
+    "id": "A122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudo da Provocação",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudo da Provocação",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "A123": {
+    "id": "A123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lâmina Esmeralda",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lâmina Esmeralda",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "A124": {
+    "id": "A124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Expansão de Vigor",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Expansão de Vigor",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "A125": {
+    "id": "A125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Correntes de Poder",
+        "type": "Equipamento",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Correntes de Poder",
+    "type": "Equipamento",
+    "cost": "1"
+  },
+  "A126": {
+    "id": "A126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armadura de Fogo e Gelo",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armadura de Fogo e Gelo",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "A127": {
+    "id": "A127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espaço",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espaço",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A128": {
+    "id": "A128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulcão",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A128.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulcão",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A129": {
+    "id": "A129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caverna",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caverna",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A130": {
+    "id": "A130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oceano",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oceano",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A131": {
+    "id": "A131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Montanha",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Montanha",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A132": {
+    "id": "A132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Céu",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Céu",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "A133": {
+    "id": "A133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eldertree, a Árvore Guardiã da Floresta",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eldertree, a Árvore Guardiã da Floresta",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "A134": {
+    "id": "A134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eldertree, o Dragão Ancião",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eldertree, o Dragão Ancião",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "A135": {
+    "id": "A135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tezla, o Mecha-Cientista",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/A135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tezla, o Mecha-Cientista",
+    "type": "Personagem",
+    "cost": "3"
+  }
+}
