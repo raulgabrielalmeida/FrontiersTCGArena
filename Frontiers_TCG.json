@@ -28,15 +28,10 @@
   "Standard": {
     "general": {
       "min": 30,
+      "max":40,
       "maxPerCard": 2
     },
-    "categories": [
-      {
-        "category": "Mana",
-        "ignoreTotalCount": true,
-        "max": 6 
-      }
-    ]
+    "categories": []
   },
   "gameplay": {
     "Standard": {

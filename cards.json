@@ -1,13 +1,28 @@
 {
-  "energy": {
-    "id": "energy",
+  "energy1": {
+    "id": "energy1",
     "isToken": false,
     "face": {
       "front": {
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/back.png",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },"energy2": {
+    "id": "energy2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng02.png",
         "isHorizontal": false
       }
     },
@@ -15,6 +30,89 @@
     "type": "Mana",
     "cost": "0"
   },
+  "energy3": {
+    "id": "energy3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng03.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy4": {
+    "id": "energy4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng04.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy5": {
+    "id": "energy5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng05.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy6": {
+    "id": "energy6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng06.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy7": {
+    "id": "energy7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng07.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+
+
+
   "A001": {
     "id": "A001",
     "isToken": false,
