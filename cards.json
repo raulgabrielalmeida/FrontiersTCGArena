@@ -7,7 +7,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng01.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng01.png",
         "isHorizontal": false
       }
     },
@@ -22,7 +22,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng02.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng02.png",
         "isHorizontal": false
       }
     },
@@ -38,7 +38,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng03.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng03.png",
         "isHorizontal": false
       }
     },
@@ -54,7 +54,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng04.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng04.png",
         "isHorizontal": false
       }
     },
@@ -70,7 +70,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng05.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng05.png",
         "isHorizontal": false
       }
     },
@@ -86,7 +86,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng06.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng06.png",
         "isHorizontal": false
       }
     },
@@ -102,7 +102,7 @@
         "name": "Energia",
         "type": "Mana",
         "cost": "0",
-        "image": "https://github.com/raulgabrielalmeida/FrontiersTCGArena/tree/main/energy/eng07.png",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/energy/eng07.png",
         "isHorizontal": false
       }
     },
