@@ -1,0 +1,676 @@
+[
+    {
+        "title": "Estrutural - Fogo",
+        "id": "2c430a18-a2c1-470b-867e-a3eff3a04a1d",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:07:46.145Z",
+        "lastModifiedAt": "2026-05-07T23:08:24.812Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Suporte",
+                "Campo",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 1,
+                    "id": "A009"
+                },
+                {
+                    "count": 2,
+                    "id": "A010"
+                },
+                {
+                    "count": 1,
+                    "id": "A011"
+                },
+                {
+                    "count": 1,
+                    "id": "A012"
+                },
+                {
+                    "count": 2,
+                    "id": "A013"
+                },
+                {
+                    "count": 2,
+                    "id": "A014"
+                },
+                {
+                    "count": 1,
+                    "id": "A060"
+                },
+                {
+                    "count": 2,
+                    "id": "A061"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 2,
+                    "id": "A016"
+                },
+                {
+                    "count": 2,
+                    "id": "A015"
+                },
+                {
+                    "count": 2,
+                    "id": "A101"
+                },
+                {
+                    "count": 2,
+                    "id": "A117"
+                },
+                {
+                    "count": 1,
+                    "id": "A116"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 1,
+                    "id": "A095"
+                },
+                {
+                    "count": 2,
+                    "id": "A093"
+                },
+                {
+                    "count": 2,
+                    "id": "A099"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 2,
+                    "id": "A128"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy6"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Estrutural - Água",
+        "id": "3f575627-89a7-42b6-9b07-e53f397460cb",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:10:21.506Z",
+        "lastModifiedAt": "2026-05-07T23:10:59.184Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Campo",
+                "Suporte",
+                "Equipamento",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 2,
+                    "id": "A002"
+                },
+                {
+                    "count": 2,
+                    "id": "A003"
+                },
+                {
+                    "count": 2,
+                    "id": "A001"
+                },
+                {
+                    "count": 1,
+                    "id": "A005"
+                },
+                {
+                    "count": 1,
+                    "id": "A004"
+                },
+                {
+                    "count": 2,
+                    "id": "A006"
+                },
+                {
+                    "count": 1,
+                    "id": "A051"
+                },
+                {
+                    "count": 1,
+                    "id": "A052"
+                },
+                {
+                    "count": 1,
+                    "id": "A055"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 2,
+                    "id": "A007"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 2,
+                    "id": "A008"
+                },
+                {
+                    "count": 2,
+                    "id": "A093"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 1,
+                    "id": "A121"
+                },
+                {
+                    "count": 1,
+                    "id": "A116"
+                },
+                {
+                    "count": 2,
+                    "id": "A108"
+                },
+                {
+                    "count": 1,
+                    "id": "A107"
+                },
+                {
+                    "count": 2,
+                    "id": "A103"
+                }
+            ],
+            "Equipamento": [
+                {
+                    "count": 1,
+                    "id": "A123"
+                },
+                {
+                    "count": 1,
+                    "id": "A122"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy7"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Estrutural - Terra",
+        "id": "bb7581f6-d6ce-4ddd-9bcc-b36031b9f4a1",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:09:07.881Z",
+        "lastModifiedAt": "2026-05-07T23:09:29.430Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Suporte",
+                "Campo",
+                "Equipamento",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 1,
+                    "id": "A025"
+                },
+                {
+                    "count": 1,
+                    "id": "A026"
+                },
+                {
+                    "count": 2,
+                    "id": "A027"
+                },
+                {
+                    "count": 1,
+                    "id": "A028"
+                },
+                {
+                    "count": 2,
+                    "id": "A029"
+                },
+                {
+                    "count": 2,
+                    "id": "A030"
+                },
+                {
+                    "count": 2,
+                    "id": "A031"
+                },
+                {
+                    "count": 1,
+                    "id": "A070"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 2,
+                    "id": "A032"
+                },
+                {
+                    "count": 2,
+                    "id": "A033"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 1,
+                    "id": "A104"
+                },
+                {
+                    "count": 2,
+                    "id": "A109"
+                },
+                {
+                    "count": 2,
+                    "id": "A093"
+                },
+                {
+                    "count": 1,
+                    "id": "A095"
+                },
+                {
+                    "count": 1,
+                    "id": "A111"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 2,
+                    "id": "A120"
+                }
+            ],
+            "Equipamento": [
+                {
+                    "count": 1,
+                    "id": "A124"
+                },
+                {
+                    "count": 1,
+                    "id": "A123"
+                },
+                {
+                    "count": 1,
+                    "id": "A122"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy5"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Estrutural - Vento",
+        "id": "4bad7967-8c96-4b0c-b3bb-0f0726527e8a",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:02:20.463Z",
+        "lastModifiedAt": "2026-05-07T23:04:43.753Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Suporte",
+                "Campo",
+                "Equipamento",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 2,
+                    "id": "A043"
+                },
+                {
+                    "count": 2,
+                    "id": "A047"
+                },
+                {
+                    "count": 2,
+                    "id": "A044"
+                },
+                {
+                    "count": 1,
+                    "id": "A045"
+                },
+                {
+                    "count": 1,
+                    "id": "A046"
+                },
+                {
+                    "count": 1,
+                    "id": "A090"
+                },
+                {
+                    "count": 1,
+                    "id": "A091"
+                },
+                {
+                    "count": 1,
+                    "id": "A088"
+                },
+                {
+                    "count": 1,
+                    "id": "A092"
+                },
+                {
+                    "count": 1,
+                    "id": "A070"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 2,
+                    "id": "A049"
+                },
+                {
+                    "count": 2,
+                    "id": "A050"
+                },
+                {
+                    "count": 1,
+                    "id": "A048"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 2,
+                    "id": "A098"
+                },
+                {
+                    "count": 2,
+                    "id": "A102"
+                },
+                {
+                    "count": 1,
+                    "id": "A113"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 2,
+                    "id": "A131"
+                }
+            ],
+            "Equipamento": [
+                {
+                    "count": 2,
+                    "id": "A123"
+                },
+                {
+                    "count": 1,
+                    "id": "A122"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy4"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Estrutural - Luz",
+        "id": "486a7d66-a4a4-4459-87d6-95cc4e8a4890",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:12:20.687Z",
+        "lastModifiedAt": "2026-05-07T23:12:45.756Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Suporte",
+                "Campo",
+                "Equipamento",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 2,
+                    "id": "A017"
+                },
+                {
+                    "count": 2,
+                    "id": "A018"
+                },
+                {
+                    "count": 2,
+                    "id": "A019"
+                },
+                {
+                    "count": 2,
+                    "id": "A020"
+                },
+                {
+                    "count": 1,
+                    "id": "A065"
+                },
+                {
+                    "count": 1,
+                    "id": "A066"
+                },
+                {
+                    "count": 1,
+                    "id": "A064"
+                },
+                {
+                    "count": 1,
+                    "id": "A068"
+                },
+                {
+                    "count": 1,
+                    "id": "A070"
+                },
+                {
+                    "count": 1,
+                    "id": "A067"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 2,
+                    "id": "A022"
+                },
+                {
+                    "count": 2,
+                    "id": "A024"
+                },
+                {
+                    "count": 2,
+                    "id": "A023"
+                },
+                {
+                    "count": 2,
+                    "id": "A094"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 1,
+                    "id": "A112"
+                },
+                {
+                    "count": 1,
+                    "id": "A105"
+                },
+                {
+                    "count": 1,
+                    "id": "A121"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 1,
+                    "id": "A021"
+                },
+                {
+                    "count": 1,
+                    "id": "A132"
+                }
+            ],
+            "Equipamento": [
+                {
+                    "count": 1,
+                    "id": "A122"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy2"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Estrutural - Trevas",
+        "id": "768ddc86-d9e3-455b-8b8f-fcfaaa7ba52a",
+        "cardCount": 36,
+        "createdAt": "2026-05-07T23:05:18.916Z",
+        "lastModifiedAt": "2026-05-07T23:06:07.610Z",
+        "game": "Frontiers TCG",
+        "format": [
+            "Standard"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Personagem",
+                "Suporte",
+                "Campo",
+                "Mana"
+            ],
+            "Personagem": [
+                {
+                    "count": 2,
+                    "id": "A036"
+                },
+                {
+                    "count": 1,
+                    "id": "A034"
+                },
+                {
+                    "count": 2,
+                    "id": "A035"
+                },
+                {
+                    "count": 1,
+                    "id": "A037"
+                },
+                {
+                    "count": 1,
+                    "id": "A083"
+                },
+                {
+                    "count": 1,
+                    "id": "A082"
+                },
+                {
+                    "count": 1,
+                    "id": "A084"
+                },
+                {
+                    "count": 1,
+                    "id": "A091"
+                },
+                {
+                    "count": 2,
+                    "id": "A010"
+                },
+                {
+                    "count": 1,
+                    "id": "A030"
+                },
+                {
+                    "count": 1,
+                    "id": "A029"
+                },
+                {
+                    "count": 1,
+                    "id": "A031"
+                }
+            ],
+            "Suporte": [
+                {
+                    "count": 1,
+                    "id": "A039"
+                },
+                {
+                    "count": 2,
+                    "id": "A040"
+                },
+                {
+                    "count": 2,
+                    "id": "A041"
+                },
+                {
+                    "count": 2,
+                    "id": "A096"
+                },
+                {
+                    "count": 2,
+                    "id": "A099"
+                },
+                {
+                    "count": 2,
+                    "id": "A100"
+                },
+                {
+                    "count": 2,
+                    "id": "A093"
+                }
+            ],
+            "Campo": [
+                {
+                    "count": 2,
+                    "id": "A038"
+                }
+            ],
+            "Mana": [
+                {
+                    "count": 6,
+                    "id": "energy3"
+                }
+            ]
+        }
+    }
+]
