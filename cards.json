@@ -1576,14 +1576,14 @@
       "front": {
         "name": "Pastel, o Gato do Destino",
         "type": "Personagem",
-        "cost": "3",
+        "cost": "2",
         "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/A092.png",
         "isHorizontal": false
       }
     },
     "name": "Pastel, o Gato do Destino",
     "type": "Personagem",
-    "cost": "3"
+    "cost": "2"
   },
   "A093": {
     "id": "A093",
