@@ -1,0 +1,199 @@
+{
+  "name": "Frontiers TCG [TESTS]",
+  "menuBackgroundImage": "https://img.notionusercontent.com/s3/prod-files-secure%2F580ff10c-a08b-8113-98de-00037ae9e6e3%2Fc21dd051-909e-413e-b7bf-86fbf31a7bc7%2FFrontiers_TCG_-_Site_Oficial.png/size/w=2000?exp=1777592964&sig=KISQ7X0TkMCeW8JbzjL5Jn322EGcll-wa0Tk_Ii_clI&id=217ff10c-a08b-8030-8e88-debfc22e1e5d&table=block&mtd=so",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/estruturais.json"
+  },
+  "customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/arenaTests/cards.json",
+    "cardBack": "https://raw.githubusercontent.com/raulgabrielalmeida/CardsBackup/refs/heads/main/cards/back.png",
+    "version": 1
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "cost"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard"
+      }
+    ]
+  },
+  "Standard": {
+    "general": {
+      "min": 30,
+      "max": 40,
+      "maxPerCard": 2
+    },
+    "categories": []
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "Se sua mão inicial não te agrada, você pode fazer o mulligan.\n Devolva uma carta para o fundo do deck sempre que você fizer um mulligan",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "ice-token",
+          "name": "Congelado",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/CONGELADO.png"
+        },
+        {
+          "id": "burn-token",
+          "name": "Queimando",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/QUEIMANDO.png"
+        },
+        {
+          "id": "paralyze-token",
+          "name": "Paralisado",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/PARALISADO.png"
+        },
+        {
+          "id": "poison-token",
+          "name": "Envenenado",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/ENVENENADO.png"
+        },
+        {
+          "id": "silence-token",
+          "name": "Silenciado",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/SILENCIADO.png"
+        },
+        {
+          "id": "weakned-token",
+          "name": "Enfraquecido",
+          "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/effects/ENFRAQUECIDO.png"
+        }
+      ],
+      "countersStartingValues": [
+        12
+      ],
+      "sections": {
+        "customSections": [
+          "Battlefield",
+          "FieldZone",
+          "Mana"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "FieldZone",
+                  "style": {
+                    "width": "25vh"
+                  }
+                },
+                {
+                  "section": "Battlefield"
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "50vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana"
+        ],
+        "autoPlayFromHand": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "Stack",
+          "Suporte": "Stack",
+          "Campo": "FieldZone"
+        },
+        "autoPlayFromStack": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "GROUP",
+          "Suporte": "Discard",
+          "Campo": "FieldZone"
+        },
+        "sectionsDict": {
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Zona de Batalha",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FieldZone": {
+            "title": "FieldZone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Field Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Energy Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
