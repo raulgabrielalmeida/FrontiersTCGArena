@@ -2270,5 +2270,181 @@
     "name": "Tezla, o Mecha-Cientista",
     "type": "Personagem",
     "cost": "3"
+  },
+  "B001": {
+    "id": "B001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helena, a Paladina Errante",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helena, a Paladina Errante",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B002": {
+    "id": "B002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akita, a clériga errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akita, a clériga errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B003": {
+    "id": "B003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red vermillion, o Gato Errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red vermillion, o Gato Errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B004": {
+    "id": "B004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elise, a ladina errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elise, a ladina errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B005": {
+    "id": "B005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holivia, o bárbaro errante",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holivia, o bárbaro errante",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B006": {
+    "id": "B006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windstorm",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windstorm",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "B007": {
+    "id": "B007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insígnia dos errantes",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insignia dos errantes",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B008": {
+    "id": "B008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bola de fogo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bola de fogo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B009": {
+    "id": "B009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cartão Vermelho",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cartão Vermelho",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B010": {
+    "id": "B010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nova Horizon",
+        "type": "Campo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nova Horizon",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "B011": {
+    "id": "B011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/raulgabrielalmeida/FrontiersTCGArena/refs/heads/main/cards/B011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub",
+    "type": "Personagem",
+    "cost": "1"
   }
 }
